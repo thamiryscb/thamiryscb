@@ -159,7 +159,23 @@ Participação em pesquisas voltadas à **classificação de fácies sísmicas c
 
 </div>
 
-http://lattes.cnpq.br/6384438297262718
-www.linkedin.com/in/thamirys-barbosab93b40305
-thamirysbarbosa37@gmail.com
+
+---
+
+<h2 align="center">🤝 Vamos nos conectar?</h2>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/thamirys-barbosa93b40305" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:thamirysbarbosa37@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+  <a href="http://lattes.cnpq.br/6384438297262718" target="_blank">
+    <img src="https://img.shields.io/badge/Lattes-215B83?style=for-the-badge&logo=googlescholar&logoColor=white" alt="Lattes"/>
+  </a>
+</p>
+
+---
+
 
