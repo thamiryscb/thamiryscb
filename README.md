@@ -141,12 +141,9 @@ Participação em pesquisas voltadas à **classificação de fácies sísmicas c
 
 [**Acesse meus repositórios e projetos no GitHub**](https://github.com/thamiryscb?tab=repositories)
 
-*Tecnologia, ciência e aprendizado contínuo.* 💜
-
 </div>
 
-<!--
-  CONTATOS OPCIONAIS
-  Para adicionar LinkedIn e e-mail posteriormente, insira links reais nesta seção.
-  Não publique seu e-mail se não quiser que ele apareça publicamente no perfil.
--->
+http://lattes.cnpq.br/6384438297262718
+www.linkedin.com/in/thamirys-barbosab93b40305
+thamirysbarbosa37@gmail.com
+
