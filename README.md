@@ -137,6 +137,22 @@ Participação em pesquisas voltadas à **classificação de fácies sísmicas c
 
 <div align="center">
 
+---
+
+<h2 align="center">🤝 Vamos nos conectar?</h2>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/LinkedIn-Thamirys%20Barbosa-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  <img src="https://img.shields.io/badge/Gmail-Contato-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  <img src="https://img.shields.io/badge/Lattes-Curr%C3%ADculo%20Acad%C3%AAmico-215B83?style=for-the-badge&logo=googlescholar&logoColor=white" alt="Currículo Lattes"/>
+</p>
+
+<p align="center">
+  <sub>Inteligência Artificial • Pesquisa Científica • Tecnologia</sub>
+</p>
+
+---
+
 ### 🤝 Vamos nos conectar?
 
 [**Acesse meus repositórios e projetos no GitHub**](https://github.com/thamiryscb?tab=repositories)
