@@ -139,7 +139,7 @@ Participação em pesquisas voltadas à **classificação de fácies sísmicas c
 <h2 align="center">🤝 Vamos nos conectar?</h2>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/thamirys-barbosa93b40305" target="_blank">
+  <a href="www.linkedin.com/in/thamirys-barbosa-b93b40305" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="mailto:thamirysbarbosa37@gmail.com">
