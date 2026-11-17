@@ -46,15 +46,15 @@ Meu interesse está em investigar e desenvolver soluções computacionais que co
 
 ## 🔬 Pesquisa e experiência acadêmica
 
-### 🩻 Reconstrução de imagens tomográficas com aprendizado de máquina | 2026–atual
-
-Pesquisa desenvolvida no contexto da **Bolsa de Verão do Centro Nacional de Pesquisa em Energia e Materiais (CNPEM)**, no **Laboratório Nacional de Luz Síncrotron (LNLS)**. Investigação de métodos computacionais de aprendizado de máquina aplicados ao processamento e à reconstrução de imagens tomográficas.
-
 ### 🌎 Assistente cognitivo para dados geofísicos | 2025–atual
 
 Participação em pesquisas voltadas à **classificação de fácies sísmicas com aprendizado de máquina não supervisionado**, à investigação de técnicas de **remoção de ruídos (*denoising*) em dados geofísicos** e ao estudo de aplicações de **fine-tuning**.
 
-### 📖 Aprendizado de máquina para recomendação de conteúdos educacionais | 2024–atual
+### 🩻 Reconstrução de imagens tomográficas com aprendizado de máquina | 2026
+
+Pesquisa desenvolvida no contexto da **Bolsa de Verão do Centro Nacional de Pesquisa em Energia e Materiais (CNPEM)**, no **Laboratório Nacional de Luz Síncrotron (LNLS)**. Investigação de métodos computacionais de aprendizado de máquina aplicados ao processamento e à reconstrução de imagens tomográficas.
+
+### 📖 Aprendizado de máquina para recomendação de conteúdos educacionais | 2024–2025
 
 **Coordenação de pesquisa** sobre métodos de aprendizado de máquina aplicados a sistemas de recomendação educacional, considerando perfis de aprendizagem e possibilidades de personalização de conteúdos para estudantes.
 
@@ -109,23 +109,34 @@ Participação em pesquisas voltadas à **classificação de fácies sísmicas c
 
 ---
 
-## 📈 Estatísticas do GitHub
-
-<!--
-  Esses cartões são gerados por serviços externos. Se algum deles ficar indisponível,
-  sua atividade e seus repositórios continuarão aparecendo normalmente no GitHub.
--->
-
-<div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=thamiryscb&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=38BDF8&text_color=C9D1D9" alt="Estatísticas da minha conta GitHub" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thamiryscb&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9" alt="Linguagens mais frequentes nos meus repositórios públicos" />
-</div>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=thamiryscb&theme=tokyonight&hide_border=true&background=0D1117" alt="Sequência de contribuições no GitHub" />
-</div>
 
 ---
+
+<h2 align="center">📈 Estatísticas do GitHub</h2>
+
+<p align="center">
+  <img
+    src="https://github-stats-extended.vercel.app/api?username=thamiryscb&show_icons=true&theme=tokyonight&hide_border=true"
+    alt="Estatísticas do GitHub"
+    height="180"
+  />
+  <img
+    src="https://github-stats-extended.vercel.app/api/top-langs/?username=thamiryscb&layout=compact&theme=tokyonight&hide_border=true"
+    alt="Linguagens mais utilizadas"
+    height="180"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://streak-stats.demolab.com/?user=thamiryscb&theme=tokyonight&hide_border=true"
+    alt="Sequência de contribuições"
+    width="495"
+  />
+</p>
+
+---
+
 
 ## 🌱 Atualmente
 
